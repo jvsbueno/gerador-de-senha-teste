@@ -72,11 +72,11 @@ body {
     font-size: 28px;
 }
 
-.parametro-senha__titulo{
+.parametro-senha-titulo{
     font-size: 24px;
 }
 
-.parametro-coluna__senha{
+.parametro-coluna-senha{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -88,7 +88,7 @@ body {
 }
 
 @media screen and (min:width: 768px) {
-    .parametro-coluna__senha{
+    .parametro-coluna-senha{
         flex-direction: row;
     }
 }
